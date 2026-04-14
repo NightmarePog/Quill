@@ -1,5 +1,5 @@
 {
-	"name": "@lukas_pogg/quill",
+	"name": "@rbxts/quill",
 	"version": "1.0.3",
 	"description": "",
 	"main": "out/init.luau",
